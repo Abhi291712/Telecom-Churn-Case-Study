@@ -1,5 +1,4 @@
 # Telecom-Churn-Case-Study
-Dataset link-https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view
 
 
 Business problem overview:
